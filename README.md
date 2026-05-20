@@ -98,3 +98,19 @@ Este projeto segue rigorosamente boas práticas de segurança:
 - ✅ Nenhuma credencial exposta no histórico do Git
 - ✅ Gestão de credenciais em produção via **variáveis de ambiente criptografadas** (Secrets)
 - ✅ Arquivo `.gitignore` configurado para bloquear arquivos `.env` locais
+
+---
+
+<div align="center">
+
+### 🧑‍💻 Desenvolvido por
+
+**Bruna Veras**
+
+*Construído linha a linha com Python, SQL, muita curiosidade e doses generosas de ☕*
+
+[![GitHub](https://img.shields.io/badge/GitHub-BrunaDev9-181717?style=for-the-badge&logo=github)](https://github.com/BrunaDev9)
+
+> *"Dados brutos são só ruído — até alguém decidir fazer perguntas certas."*
+
+</div>
